@@ -1,5 +1,6 @@
 # Exercicio
-Entendendo métodos Java 
+Entendendo métodos Java.
+
 Criando uma aplicação que resolva as seguintes situações: 
 Calcular as 4 operações básicas: Soma, subtração, multiplicação e divisão. 
 Sempre dois valores devem ser passados. 
